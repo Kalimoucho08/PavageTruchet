@@ -1,1 +1,1 @@
-necessite la lib pillow
+necessite la lib PIL
